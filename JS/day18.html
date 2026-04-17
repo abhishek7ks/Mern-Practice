@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Day 18</title>
+</head>
+<body>
+
+
+    <button id="btn">click me</button>
+    <input type="text" id="inputf" placeholder="Yahan kuch type karo...">
+    <h1 id="hddd"></h1>
+
+  <script>
+        const btn = document.getElementById("btn");
+        const inputReceived = document.getElementById("inputf");
+        const h1Change = document.getElementById("hddd");
+
+        btn.addEventListener("click", function () {
+            btn.innerText = "Clicked";
+        });
+
+        inputReceived.addEventListener("input", function () {
+            h1Change.innerText = inputReceived.value;
+        });
+    </script>
+  
+</body>
+
+</html>
