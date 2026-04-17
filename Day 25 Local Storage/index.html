@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width , initial-scale= 1.0 " />
+    <title>Todo App</title>
+    <style>
+      body {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 20px;
+        margin: 20px;
+      }
+      #addbtn {
+        margin: 20px;
+        background-color: yellow;
+        color: black;
+        border-radius: 25px;
+        width: 100px;
+      }
+    </style>
+  </head>
+  <body>
+    <input type="text" id="taskinput" placeholder="Add Task" />
+    <button id="addbtn" onclick="addtask()">add task</button>
+    <ul id="tasklist"></ul>
+  </body>
+  <script src="app.js"></script>
+  
+</html>
