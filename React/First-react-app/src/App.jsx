@@ -5,6 +5,7 @@ import heroImg from './assets/hero.png'
 import './App.css'
 import Navbar from './Navbar.jsx'
 import Footer from './Footer.jsx'
+import Card from './Card.jsx'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -119,6 +120,11 @@ function App() {
       <div className="ticks"></div>
       <section id="spacer"></section>
       <Footer/>
+      <Card name = "Abhishek" role = "developer" /> 
+      <Card name = "Ayushi" role = "designer" /> 
+      <Card name = "Abhi" role = "scientist" /> 
+      
+
     </>
   )
 }
