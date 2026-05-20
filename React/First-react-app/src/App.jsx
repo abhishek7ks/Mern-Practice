@@ -7,6 +7,7 @@ import Navbar from './Navbar.jsx'
 import Footer from './Footer.jsx'
 import Card from './Card.jsx'
 import Counter from './Counter.jsx'
+import User from './User.jsx'
 
 
 function App() {
@@ -126,6 +127,7 @@ function App() {
       <Card name = "Ayushi" role = "designer" /> 
       <Card name = "Abhi" role = "scientist" /> 
       <Counter></Counter>
+      <User/>
       
 
     </>
