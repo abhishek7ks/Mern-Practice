@@ -6,6 +6,13 @@ return `My name is ${name} and my age  is ${age} and my mobile number is ${mob}`
 console.log(mydata("abhishek",23, 9389869959));
 console.log(mydata("Claude", 5, "Pta nahi kya hai"));
 
+let name1 = "abhishek"
+let age2 = 23
+let add = "saharanpur"
+
+console.table( {name1, age2 , add})
+console.table( [name1, age2 , add])
+
 // Day 15 ✅
 // Variables, Functions practice
 // let, const, var
