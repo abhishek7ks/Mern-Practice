@@ -1,4 +1,4 @@
-import Newsletter from "./Components/Newsletter"
+import Newsletter from "./components/Newsletter"
 
 
 const App = () => {
