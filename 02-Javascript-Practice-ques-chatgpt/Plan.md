@@ -10,8 +10,8 @@
 **Expected skill:** variables, values, types, conversion, basic expressions ko confidently samajhna.
 
 * [✅] Q1 🟢 `let`, `const` aur `var` mein difference batao aur example do.
-* [✅ ] Q2 🟢 Valid aur invalid JavaScript variable names identify karo.
-* [ ] Q3 🟢 Number, String, Boolean, Undefined, Null ko example ke saath create karo.
+* [✅] Q2 🟢 Valid aur invalid JavaScript variable names identify karo.
+* [✅] Q3 🟢 Number, String, Boolean, Undefined, Null ko example ke saath create karo.
 * [ ] Q4 🟢 `typeof` ka use karke 10 different values inspect karo.
 * [ ] Q5 🟢 `typeof null` ka output explain karo.
 * [ ] Q6 🟢 Primitive aur reference values ka basic difference samjhao.
