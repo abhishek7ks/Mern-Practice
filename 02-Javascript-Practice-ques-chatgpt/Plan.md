@@ -12,33 +12,33 @@
 * [✅] Q1 🟢 `let`, `const` aur `var` mein difference batao aur example do.
 * [✅] Q2 🟢 Valid aur invalid JavaScript variable names identify karo.
 * [✅] Q3 🟢 Number, String, Boolean, Undefined, Null ko example ke saath create karo.
-* [ ] Q4 🟢 `typeof` ka use karke 10 different values inspect karo.
-* [ ] Q5 🟢 `typeof null` ka output explain karo.
-* [ ] Q6 🟢 Primitive aur reference values ka basic difference samjhao.
-* [ ] Q7 🟢 String ko number mein convert karne ke 3 tarike likho.
-* [ ] Q8 🟢 Number ko string mein convert karne ke 3 tarike likho.
-* [ ] Q9 🟢 `"10" + 5` ka result predict karo.
-* [ ] Q10 🟢 `"10" - 5` ka result predict karo.
-* [ ] Q11 🟢 `Number()`, `parseInt()`, `parseFloat()` compare karo.
-* [ ] Q12 🟢 `NaN` kya hai? Example se show karo.
-* [ ] Q13 🟢 `Number.isNaN()` aur global `isNaN()` ka difference test karo.
-* [ ] Q14 🟢 `Infinity` kab milta hai?
-* [ ] Q15 🟢 Truthy aur falsy values ki list banao.
-* [ ] Q16 🟢 `Boolean()` se 15 values test karo.
-* [ ] Q17 🟢 Template literals se dynamic sentence banao.
-* [ ] Q18 🟢 Escape characters use karke multiline string banao.
-* [ ] Q19 🟢 Celsius ko Fahrenheit mein convert karo.
-* [ ] Q20 🟢 Minutes ko hours + minutes mein convert karo.
-* [ ] Q21 🟢 Seconds ko `hh:mm:ss` mein convert karo.
-* [ ] Q22 🟢 Age in years se approximate days calculate karo.
-* [ ] Q23 🟢 Rectangle ka area/perimeter calculate karo.
-* [ ] Q24 🟢 Circle ka area aur circumference calculate karo.
-* [ ] Q25 🟢 Simple interest calculate karo.
-* [ ] Q26 🟢 Compound interest calculate karo.
-* [ ] Q27 🟡 Two variables ko temporary variable ke bina swap karo.
-* [ ] Q28 🟡 3 variables ka average calculate karo.
-* [ ] Q29 🟡 Kisi number ke last digit ko nikalo.
-* [ ] Q30 🟡 Number ke first aur last digit ka sum nikalo.
+* [✅] Q4 🟢 `typeof` ka use karke 10 different values inspect karo.
+* [✅] Q5 🟢 `typeof null` ka output explain karo.
+* [✅] Q6 🟢 Primitive aur reference values ka basic difference samjhao.
+* [✅] Q7 🟢 String ko number mein convert karne ke 3 tarike likho.
+* [✅] Q8 🟢 Number ko string mein convert karne ke 3 tarike likho.
+* [✅] Q9 🟢 `"10" + 5` ka result predict karo.
+* [✅] Q10 🟢 `"10" - 5` ka result predict karo.
+* [✅] Q11 🟢 `Number()`, `parseInt()`, `parseFloat()` compare karo.
+* [✅] Q12 🟢 `NaN` kya hai? Example se show karo.
+* [✅] Q13 🟢 `Number.isNaN()` aur global `isNaN()` ka difference test karo.
+* [✅] Q14 🟢 `Infinity` kab milta hai?
+* [✅] Q15 🟢 Truthy aur falsy values ki list banao.
+* [✅] Q16 🟢 `Boolean()` se 15 values test karo.
+* [✅] Q17 🟢 Template literals se dynamic sentence banao.
+* [✅] Q18 🟢 Escape characters use karke multiline string banao.
+* [✅] Q19 🟢 Celsius ko Fahrenheit mein convert karo.
+* [✅] Q20 🟢 Minutes ko hours + minutes mein convert karo. [Thode Tough Ek baar Revision]
+* [✅] Q21 🟢 Seconds ko `hh:mm:ss` mein convert karo.      [Thode Tough Ek baar Revision]
+* [✅] Q22 🟢 Age in years se approximate days calculate karo.
+* [✅] Q23 🟢 Rectangle ka area/perimeter calculate karo.
+* [✅] Q24 🟢 Circle ka area aur circumference calculate karo.
+* [✅] Q25 🟢 Simple interest calculate karo.
+* [✅] Q26 🟢 Compound interest calculate karo.
+* [✅] Q27 🟡 Two variables ko temporary variable ke bina swap karo.
+* [✅] Q28 🟡 3 variables ka average calculate karo.
+* [✅] Q29 🟡 Kisi number ke last digit ko nikalo.
+* [✅] Q30 🟡 Number ke first aur last digit ka sum nikalo.
 
 ---
 
@@ -617,7 +617,7 @@
 
 ---
 
-# 17. Real-World JavaScript Coding Tasks — Q501–Q520
+## 17. Real-World JavaScript Coding Tasks — Q501–Q520
 
 **Expected skill:** isolated questions se production-style logic ki taraf move karna.
 
@@ -644,7 +644,7 @@
 
 ---
 
-# 18. Modern Project Track — P1 to P20
+## 18. Modern Project Track — P1 to P20
 
 In projects mein target **tutorial copy karna nahi**, balki requirements padhkar khud architecture sochna hai.
 
@@ -1027,13 +1027,13 @@ Refactoring
 
 ---
 
-# Mastery Rules
+## Mastery Rules
 
 ### Rule 1 — Sirf answer dekh ke tick mat karo
 
 Agar solution dekha:
 
-**❌ Solved nahi**
+> ❌ **Solved nahi**
 
 Solution band karo → editor kholo → **zero se dobara likho**.
 
@@ -1109,11 +1109,11 @@ architecture
 
 ---
 
-# Mastery Checkpoints
+## Mastery Checkpoints
 
-### Level 1 — Basic JS
+## Level 1 — Basic JS
 
-**Q1–115**
+### Q1–115
 
 Tumhe bina tutorial:
 
@@ -1127,7 +1127,7 @@ likhne aana chahiye.
 
 ### Level 2 — Data Handling
 
-**Q116–230**
+### Q116–230
 
 Tum:
 
@@ -1140,7 +1140,7 @@ ko confidently manipulate kar pao.
 
 ### Level 3 — Core JS
 
-**Q231–320**
+#### Q231–320
 
 Tum:
 
@@ -1155,7 +1155,7 @@ actually samajh pao.
 
 ### Level 4 — Browser JS
 
-**Q321–395**
+#### Q321–395
 
 Tum:
 
@@ -1169,7 +1169,7 @@ se real interfaces bana pao.
 
 ### Level 5 — Async JS
 
-**Q396–440**
+#### Q396–440
 
 Tum:
 
@@ -1185,13 +1185,13 @@ handle kar pao.
 
 ### Level 6 — Advanced
 
-**Q441–520**
+### Q441–520
 
 Tum unfamiliar problems ko solve, optimize aur architect kar pao.
 
 ---
 
-# Final Target
+## Final Target
 
 ```text
 520 JS Questions
