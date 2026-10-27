@@ -46,31 +46,31 @@
 
 **Expected skill:** comparison, logical reasoning aur decision making.
 
-* [ ] Q31 🟢 Arithmetic operators ke examples banao.
-* [ ] Q32 🟢 Assignment operators ka practical use karo.
-* [ ] Q33 🟢 `==` aur `===` ke 10 examples compare karo.
-* [ ] Q34 🟢 `!=` aur `!==` compare karo.
-* [ ] Q35 🟢 `>`, `<`, `>=`, `<=` se comparison problems solve karo.
-* [ ] Q36 🟢 Logical AND ke 10 examples solve karo.
-* [ ] Q37 🟢 Logical OR ke 10 examples solve karo.
-* [ ] Q38 🟢 Logical NOT ke examples solve karo.
-* [ ] Q39 🟢 Short-circuit evaluation demonstrate karo.
-* [ ] Q40 🟢 Ternary operator se positive/negative check karo.
-* [ ] Q41 🟢 Even/odd check karo.
-* [ ] Q42 🟢 Positive/negative/zero check karo.
-* [ ] Q43 🟢 Maximum of 2 numbers nikalo.
-* [ ] Q44 🟢 Maximum of 3 numbers nikalo.
-* [ ] Q45 🟢 Number divisible by 5 and 11 check karo.
-* [ ] Q46 🟢 Leap year checker banao.
-* [ ] Q47 🟢 Age se eligibility check karo.
-* [ ] Q48 🟢 Marks se grade calculator banao.
-* [ ] Q49 🟢 Electricity bill slab calculator banao.
-* [ ] Q50 🟡 Income-tax style progressive slab calculator banao.
-* [ ] Q51 🟡 Login validation using email/password conditions banao.
-* [ ] Q52 🟡 Three numbers ko conditions se ascending order mein print karo.
-* [ ] Q53 🟡 Triangle valid hai ya nahi check karo.
-* [ ] Q54 🟡 Triangle ka type identify karo.
-* [ ] Q55 🔴 Nested conditions use karke shipping fee calculator banao.
+* [✅] Q31 🟢 Arithmetic operators ke examples banao.
+* [✅] Q32 🟢 Assignment operators ka practical use karo.
+* [✅] Q33 🟢 `==` aur `===` ke 10 examples compare karo.
+* [✅] Q34 🟢 `!=` aur `!==` compare karo.
+* [✅] Q35 🟢 `>`, `<`, `>=`, `<=` se comparison problems solve karo.
+* [✅] Q36 🟢 Logical AND ke 10 examples solve karo.
+* [✅] Q37 🟢 Logical OR ke 10 examples solve karo.
+* [✅] Q38 🟢 Logical niNOT ke examples solve karo.
+* [✅] Q39 🟢 Short-circuit evaluation demonstrate karo.
+* [✅] Q40 🟢 Ternary operator se positive/negative check karo.
+* [✅] Q41 🟢 Even/odd check karo.
+* [✅] Q42 🟢 Positive/negative/zero check karo.
+* [✅] Q43 🟢 Maximum of 2 numbers nikalo.
+* [✅] Q44 🟢 Maximum of 3 numbers nikalo.
+* [✅] Q45 🟢 Number divisible by 5 and 11 check karo.
+* [✅] Q46 🟢 Leap year checker banao.
+* [✅] Q47 🟢 Age se eligibility check karo.
+* [✅] Q48 🟢 Marks se grade calculator banao.
+* [✅] Q49 🟢 Electricity bill slab calculator banao.
+* [✅] Q50 🟡 Income-tax style progressive slab calculator banao.
+* [✅] Q51 🟡 Login validation using email/password conditions banao.
+* [✅]Q52 🟡 Three numbers ko conditions se ascending order mein print karo.
+* [✅] Q53 🟡 Triangle valid hai ya nahi check karo.
+* [✅] Q54 🟡 Triangle ka type identify karo.
+* [✅] Q55 🔴 Nested conditions use karke shipping fee calculator banao.
 
 ---
 
