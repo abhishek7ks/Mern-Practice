@@ -1,0 +1,1 @@
+// Q59 🟢 1–100 odd numbers print karo.

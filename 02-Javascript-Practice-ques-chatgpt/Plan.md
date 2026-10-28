@@ -78,9 +78,9 @@
 
 **Expected skill:** repetition, iteration aur logical thinking.
 
-* [ ] Q56 🟢 `for` loop se 1–100 print karo.
-* [ ] Q57 🟢 100–1 reverse print karo.
-* [ ] Q58 🟢 1–100 even numbers print karo.
+* [✅] Q56 🟢 `for` loop se 1–100 print karo.
+* [✅] Q57 🟢 100–1 reverse print karo.
+* [✅] Q58 🟢 1–100 even numbers print karo.
 * [ ] Q59 🟢 1–100 odd numbers print karo.
 * [ ] Q60 🟢 1–N ka sum nikalo.
 * [ ] Q61 🟢 1–N ka product nikalo.
