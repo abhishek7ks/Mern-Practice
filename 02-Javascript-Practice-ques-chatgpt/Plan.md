@@ -81,12 +81,12 @@
 * [✅] Q56 🟢 `for` loop se 1–100 print karo.
 * [✅] Q57 🟢 100–1 reverse print karo.
 * [✅] Q58 🟢 1–100 even numbers print karo.
-* [ ] Q59 🟢 1–100 odd numbers print karo.
-* [ ] Q60 🟢 1–N ka sum nikalo.
-* [ ] Q61 🟢 1–N ka product nikalo.
-* [ ] Q62 🟢 Multiplication table generate karo.
-* [ ] Q63 🟢 Number ke digits count karo.
-* [ ] Q64 🟢 Number ke digits ka sum nikalo.
+* [✅] Q59 🟢 1–100 odd numbers print karo.
+* [✅] Q60 🟢 1–N ka sum nikalo.
+* [✅] Q61 🟢 1–N ka product nikalo.
+* [✅] Q62 🟢 Multiplication table generate karo.
+* [✅] Q63 🟢 Number ke digits count karo.
+* [✅] Q64 🟢 Number ke digits ka sum nikalo.
 * [ ] Q65 🟢 Number reverse karo.
 * [ ] Q66 🟢 Palindrome number check karo.
 * [ ] Q67 🟢 Factorial calculate karo.
