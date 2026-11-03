@@ -87,10 +87,10 @@
 * [✅] Q62 🟢 Multiplication table generate karo.
 * [✅] Q63 🟢 Number ke digits count karo.
 * [✅] Q64 🟢 Number ke digits ka sum nikalo.
-* [ ] Q65 🟢 Number reverse karo.
-* [ ] Q66 🟢 Palindrome number check karo.
-* [ ] Q67 🟢 Factorial calculate karo.
-* [ ] Q68 🟢 Power without `Math.pow()` calculate karo.
+* [✅] Q65 🟢 Number reverse karo.
+* [✅] Q66 🟢 Palindrome number check karo.
+* [✅] Q67 🟢 Factorial calculate karo.
+* [✅] Q68 🟢 Power without `Math.pow()` calculate karo.
 * [ ] Q69 🟢 Prime number check karo.
 * [ ] Q70 🟢 1–N primes print karo.
 * [ ] Q71 🟢 Fibonacci series generate karo.
