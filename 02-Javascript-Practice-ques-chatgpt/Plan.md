@@ -91,18 +91,18 @@
 * [✅] Q66 🟢 Palindrome number check karo.
 * [✅] Q67 🟢 Factorial calculate karo.
 * [✅] Q68 🟢 Power without `Math.pow()` calculate karo.
-* [ ] Q69 🟢 Prime number check karo.
-* [ ] Q70 🟢 1–N primes print karo.
-* [ ] Q71 🟢 Fibonacci series generate karo.
-* [ ] Q72 🟢 GCD calculate karo.
-* [ ] Q73 🟢 LCM calculate karo.
-* [ ] Q74 🟡 Armstrong number check karo.
-* [ ] Q75 🟡 Perfect number check karo.
-* [ ] Q76 🟡 Decimal to binary convert karo.
-* [ ] Q77 🟡 Binary to decimal convert karo.
-* [ ] Q78 🟡 `while` loop se menu-driven program banao.
-* [ ] Q79 🔴 Nested loops se multiplication grid generate karo.
-* [ ] Q80 🔴 Number guessing engine banao jisme attempts count hon.
+* [✅] Q69 🟢 Prime number check karo.
+* [✅] Q70 🟢 1–N primes print karo.
+* [✅] Q71 🟢 Fibonacci series generate karo.
+* [✅] Q72 🟢 GCD calculate karo.
+* [✅] Q73 🟢 LCM calculate karo.
+* [✅] Q74 🟡 Armstrong number check karo.
+* [✅] Q75 🟡 Perfect number check karo.
+* [✅] Q76 🟡 Decimal to binary convert karo.
+* [✅] Q77 🟡 Binary to decimal convert karo.
+* [✅] Q78 🟡 `while` loop se menu-driven program banao.
+* [✅] Q79 🔴 Nested loops se multiplication grid generate karo.
+* [✅] Q80 🔴 Number guessing engine banao jisme attempts count hon.
 
 ---
 
