@@ -110,25 +110,25 @@
 
 **Expected skill:** reusable logic, parameters, return values, higher-order functions.
 
-* [ ] Q81 🟢 Simple function create/call karo.
-* [ ] Q82 🟢 Function with parameter banao.
-* [ ] Q83 🟢 Function with multiple parameters banao.
-* [ ] Q84 🟢 Return value use karo.
-* [ ] Q85 🟢 Default parameter use karo.
-* [ ] Q86 🟢 Function expression likho.
-* [ ] Q87 🟢 Arrow function convert karo.
-* [ ] Q88 🟢 One-line arrow function likho.
-* [ ] Q89 🟢 Multiple values ko calculate karne wali utility function banao.
-* [ ] Q90 🟢 Temperature conversion function set banao.
-* [ ] Q91 🟢 `isEven()` function banao.
-* [ ] Q92 🟢 `isPrime()` function banao.
-* [ ] Q93 🟢 `isPalindrome()` function banao.
-* [ ] Q94 🟢 `getMax()` function banao.
-* [ ] Q95 🟢 `getMin()` function banao.
-* [ ] Q96 🟢 `calculateDiscount()` function banao.
-* [ ] Q97 🟢 `calculateTax()` function banao.
-* [ ] Q98 🟡 Function ko argument ke roop mein pass karo.
-* [ ] Q99 🟡 Function se function return karo.
+* [✅] Q81 🟢 Simple function create/call karo.
+* [✅] Q82 🟢 Function with parameter banao.
+* [✅] Q83 🟢 Function with multiple parameters banao.
+* [✅] Q84 🟢 Return value use karo.
+* [✅] Q85 🟢 Default parameter use karo.
+* [✅] Q86 🟢 Function expression likho.
+* [✅] Q87 🟢 Arrow function convert karo.
+* [✅] Q88 🟢 One-line arrow function likho.
+* [✅] Q89 🟢 Multiple values ko calculate karne wali utility function banao.
+* [✅] Q90 🟢 Temperature conversion function set banao.
+* [✅] Q91 🟢 `isEven()` function banao.
+* [✅] Q92 🟢 `isPrime()` function banao.
+* [✅] Q93 🟢 `isPalindrome()` function banao.
+* [✅] Q94 🟢 `getMax()` function banao.
+* [✅] Q95 🟢 `getMin()` function banao.
+* [✅] Q96 🟢 `calculateDiscount()` function banao.
+* [✅] Q97 🟢 `calculateTax()` function banao.
+* [✅] Q98 🟡 Function ko argument ke roop mein pass karo.
+* [✅] Q99 🟡 Function se function return karo.
 * [ ] Q100 🟡 Callback ka simple example banao.
 * [ ] Q101 🟡 `calculate(a,b,operation)` generic function banao.
 * [ ] Q102 🟡 Array processing ke liye custom callback banao.
