@@ -137,8 +137,8 @@
 * [✅] Q105 🟡 Custom `filter` function implement karo.
 * [✅] Q106 🟡 Custom `reduce` function implement karo.
 * [✅] Q107 🟡 Higher-order function identify karo.
-* [ ] Q108 🟡 Pure function aur impure function ke examples do.
-* [ ] Q109 🟡 Side effect identify karne wala example banao.
+* [✅] Q108 🟡 Pure function aur impure function ke examples do.
+* [✅] Q109 🟡 Side effect identify karne wala example banao.
 * [ ] Q110 🟡 Recursive factorial function banao.
 * [ ] Q111 🟡 Recursive Fibonacci function banao.
 * [ ] Q112 🔴 Recursive array sum function banao.
