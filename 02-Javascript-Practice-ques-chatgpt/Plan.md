@@ -129,14 +129,14 @@
 * [✅] Q97 🟢 `calculateTax()` function banao.
 * [✅] Q98 🟡 Function ko argument ke roop mein pass karo.
 * [✅] Q99 🟡 Function se function return karo.
-* [ ] Q100 🟡 Callback ka simple example banao.
-* [ ] Q101 🟡 `calculate(a,b,operation)` generic function banao.
-* [ ] Q102 🟡 Array processing ke liye custom callback banao.
-* [ ] Q103 🟡 Custom `forEach` function implement karo.
-* [ ] Q104 🟡 Custom `map` function implement karo.
-* [ ] Q105 🟡 Custom `filter` function implement karo.
-* [ ] Q106 🟡 Custom `reduce` function implement karo.
-* [ ] Q107 🟡 Higher-order function identify karo.
+* [✅] Q100 🟡 Callback ka simple example banao.
+* [✅] Q101 🟡 `calculate(a,b,operation)` generic function banao.
+* [✅] Q102 🟡 Array processing ke liye custom callback banao.
+* [✅] Q103 🟡 Custom `forEach` function implement karo.
+* [✅] Q104 🟡 Custom `map` function implement karo.
+* [✅] Q105 🟡 Custom `filter` function implement karo.
+* [✅] Q106 🟡 Custom `reduce` function implement karo.
+* [✅] Q107 🟡 Higher-order function identify karo.
 * [ ] Q108 🟡 Pure function aur impure function ke examples do.
 * [ ] Q109 🟡 Side effect identify karne wala example banao.
 * [ ] Q110 🟡 Recursive factorial function banao.
