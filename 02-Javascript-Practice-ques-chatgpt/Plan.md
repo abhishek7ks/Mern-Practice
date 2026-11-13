@@ -139,10 +139,10 @@
 * [✅] Q107 🟡 Higher-order function identify karo.
 * [✅] Q108 🟡 Pure function aur impure function ke examples do.
 * [✅] Q109 🟡 Side effect identify karne wala example banao.
-* [ ] Q110 🟡 Recursive factorial function banao.
-* [ ] Q111 🟡 Recursive Fibonacci function banao.
-* [ ] Q112 🔴 Recursive array sum function banao.
-* [ ] Q113 🔴 Recursive nested object traversal karo.
+* [✅] Q110 🟡 Recursive factorial function banao.
+* [✅] Q111 🟡 Recursive Fibonacci function banao.
+* [✅] Q112 🔴 Recursive array sum function banao.
+* [✅] Q113 🔴 Recursive nested object traversal karo.
 * [ ] Q114 🔴 Memoized Fibonacci function banao.
 * [ ] Q115 🔴 Function composition ka utility banao.
 
