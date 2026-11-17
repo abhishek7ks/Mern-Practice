@@ -152,14 +152,14 @@
 
 **Expected skill:** text processing, parsing aur transformation.
 
-* [ ] Q116 🟢 String length nikalo.
-* [ ] Q117 🟢 First/last character access karo.
-* [ ] Q118 🟢 String uppercase/lowercase convert karo.
-* [ ] Q119 🟢 Trim spaces.
-* [ ] Q120 🟢 `includes()` use karo.
-* [ ] Q121 🟢 `startsWith()` / `endsWith()` use karo.
-* [ ] Q122 🟢 Substring extract karo.
-* [ ] Q123 🟢 String reverse karo.
+* [✅] Q116 🟢 String length nikalo.
+* [✅] Q117 🟢 First/last character access karo.
+* [✅] Q118 🟢 String uppercase/lowercase convert karo.
+* [✅] Q119 🟢 Trim spaces.
+* [✅] Q120 🟢 `includes()` use karo.
+* [✅] Q121 🟢 `startsWith()` / `endsWith()` use karo.
+* [✅] Q122 🟢 Substring extract karo.
+* [✅] Q123 🟢 String reverse karo.
 * [ ] Q124 🟢 Palindrome string check karo.
 * [ ] Q125 🟢 Character count karo.
 * [ ] Q126 🟢 Spaces count karo.
